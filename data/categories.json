@@ -1,0 +1,7 @@
+[
+  { "id": "sofas", "title": "Диваны" },
+  { "id": "tables", "title": "Столы" },
+  { "id": "chairs", "title": "Стулья и кресла" },
+  { "id": "storage", "title": "Хранение" },
+  { "id": "beds", "title": "Кровати" }
+]

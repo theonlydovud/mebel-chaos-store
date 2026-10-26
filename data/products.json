@@ -1,0 +1,10 @@
+[
+  { "id": 1, "title": "Диван «Облако»", "category": "sofas", "price": 74990, "discount": 10, "emoji": "🛋️", "material": "Велюр, массив сосны" },
+  { "id": 2, "title": "Обеденный стол «Дуб»", "category": "tables", "price": 45900, "discount": 0, "emoji": "🪵", "material": "Массив дуба" },
+  { "id": 3, "title": "Кресло «Лаунж»", "category": "chairs", "price": 32500, "discount": 15, "emoji": "💺", "material": "Экокожа, орех" },
+  { "id": 4, "title": "Стул «Скандинавия»", "category": "chairs", "price": 6990, "discount": 0, "emoji": "🪑", "material": "Бук, ткань" },
+  { "id": 5, "title": "Шкаф-купе «Север»", "category": "storage", "price": 58900, "discount": 5, "emoji": "🚪", "material": "ЛДСП, зеркало" },
+  { "id": 6, "title": "Кровать «Сон»", "category": "beds", "price": 61200, "discount": 20, "emoji": "🛏️", "material": "Массив берёзы" },
+  { "id": 7, "title": "Комод «Минимал»", "category": "storage", "price": 21400, "discount": 0, "emoji": "🗄️", "material": "МДФ, эмаль" },
+  { "id": 8, "title": "Журнальный столик «Круг»", "category": "tables", "price": 12800, "discount": 10, "emoji": "☕", "material": "Ясень, стекло" }
+]
